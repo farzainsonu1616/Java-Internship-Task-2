@@ -1,0 +1,33 @@
+Screenshots to be captured for TASK 2 submission:
+
+1. project_structure.png
+   - Capture the IntelliJ IDEA Project Explorer
+   - Show:
+     - src folder
+     - VariablesDemo.java
+     - README.md
+     - screenshots.txt
+     - screenshots folder
+
+2. code_editor.png
+   - Capture the VariablesDemo.java file opened in IntelliJ
+   - Ensure:
+     - Class name is visible
+     - main() method is visible
+     - Comments are readable
+
+3. program_run_input.png
+   - Capture the Run Console
+   - Show:
+     - Program asking for input
+     - Entered values (e.g., 10 and 5)
+
+4. program_output.png
+   - Capture the console showing final output
+   - Output should display:
+     - Arithmetic results
+     - Type casting output
+     - Local, instance, and static variable values
+
+All screenshots should be saved inside the "screenshots" folder.
+File names must match exactly as listed above.
